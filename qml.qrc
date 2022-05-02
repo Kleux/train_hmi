@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Logo.png</file>
+        <file>defscreen.qml</file>
+        <file>train.gif</file>
+        <file>cr.png</file>
+        <file>sims2.png</file>
+    </qresource>
+</RCC>
